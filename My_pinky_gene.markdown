@@ -27,3 +27,7 @@ This sofware gave us a new base:
 We had to save this as an Excel document:
 
 ![pic](pix5.png)
+
+We couldn't open [Revigo](http://revigo.irb.hr/)
+
+But we started to compare genes from this base, and created some graphics.
