@@ -8,6 +8,8 @@ By: Astrid LunaO
 
 ![Panopea generosa](http://cdn.c.photoshelter.com/img-get/I0000yENCFSgnSjg/s/650/DSC-0607.jpg)
 
+GRAPHICS AT THE END :3
+
 We used a base of [data](https://raw.githubusercontent.com/sr320/course-btea/master/analyses/GeoF-Annotation-SP-join-F-M-match.csv) that made a comparation between female and male.
 
 ![pic](pix1.png)
@@ -31,3 +33,13 @@ We had to save this as an Excel document:
 We couldn't open [Revigo](http://revigo.irb.hr/)
 
 But we started to compare genes from this base, and created some graphics.
+
+These are my graphics. Just playing!
+
+All the data:
+
+![pic](pix6.png)
+
+Comparation of pops:
+
+![pic](pix7.png)
